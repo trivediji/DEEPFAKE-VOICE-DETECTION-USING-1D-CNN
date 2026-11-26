@@ -1,0 +1,6 @@
+numpy
+librosa
+tensorflow
+joblib
+pydub
+simpleaudio
